@@ -1,0 +1,9 @@
+Jordan Student
+Email: jordan@example.com
+Education
+Bachelor of Science in Management Information Systems, Expected May 2027
+Projects
+Sales Dashboard Project — Built Tableau dashboards using sample retail data to analyze monthly revenue and product trends. Presented findings to classmates.
+Customer Support Volunteer — Helped visitors resolve basic technology questions at a campus event.
+Skills
+Python, SQL, Excel, Tableau, communication, teamwork

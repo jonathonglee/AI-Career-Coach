@@ -1,0 +1,4 @@
+Junior Data Analyst
+Responsibilities: clean and analyze business datasets; build dashboards; communicate findings to stakeholders; document analysis workflows.
+Required: Excel, SQL, data visualization, written communication.
+Preferred: Python, Tableau or Power BI, experience with version control.
