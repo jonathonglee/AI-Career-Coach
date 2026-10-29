@@ -1,4 +1,4 @@
-# AI Career Coach — Group Assignment 2
+# AI Career Coach - Group 11: Group Assignment 2
 
 A deployable **Streamlit** web app for college students: upload a resume, compare it with a job description, and ask career questions. Uses **OpenAI** for generation and **local TF-IDF retrieval** for a real, lightweight RAG workflow.
 
