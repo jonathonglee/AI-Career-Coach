@@ -90,13 +90,12 @@ app.py                         Streamlit user interface
 career_coach/extract.py        PDF/TXT extraction
 career_coach/retrieval.py      TF-IDF retrieval
 career_coach/analysis.py       OpenAI generation + prompting
-knowledge_base/*.md           RAG source documents
+knowledge_base/*.md            RAG source documents
 samples/*.txt                  Fictional demo input
 .streamlit/config.toml         Streamlit styling/config
 .env.example                   API configuration example
 requirements.txt               Python dependencies
 tests/test_core.py             Offline tests
-PRESENTATION_GUIDE.md          Five-minute demo plan
 ```
 
 ## Limitations / future improvements
