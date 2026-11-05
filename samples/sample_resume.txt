@@ -1,9 +1,87 @@
-Jordan Student
-Email: jordan@example.com
-Education
-Bachelor of Science in Management Information Systems, Expected May 2027
-Projects
-Sales Dashboard Project — Built Tableau dashboards using sample retail data to analyze monthly revenue and product trends. Presented findings to classmates.
-Customer Support Volunteer — Helped visitors resolve basic technology questions at a campus event.
-Skills
-Python, SQL, Excel, Tableau, communication, teamwork
+# JORDAN STUDENT
+Tucson, Arizona | jordan@example.com | (520) 555-0148  
+LinkedIn: linkedin.com/in/jordanstudent | GitHub: github.com/jordanstudent
+
+## PROFESSIONAL SUMMARY
+Motivated Management Information Systems student with hands-on experience in data analysis, business intelligence, and dashboard development. Proficient in Excel, SQL, Python, and Tableau, with experience analyzing business datasets, identifying trends, and presenting actionable insights. Strong problem-solving, communication, and teamwork skills developed through academic projects, campus activities, and customer-facing volunteer work. Seeking an entry-level data analyst position to apply technical and analytical skills in a professional business environment.
+
+## EDUCATION
+**University of Arizona — Eller College of Management**  
+Bachelor of Science in Business Administration, Management Information Systems  
+Expected Graduation: May 2027  
+GPA: 3.65/4.00
+
+**Relevant Coursework:**
+- Business Data Analytics
+- Database Management Systems
+- Business Intelligence and Data Visualization
+- Systems Analysis and Design
+- Introduction to Python Programming
+- Business Statistics
+- Project Management
+
+## TECHNICAL SKILLS
+**Data Analysis:** Microsoft Excel (PivotTables, XLOOKUP, conditional formatting), SQL, Python (pandas, matplotlib)
+
+**Data Visualization:** Tableau, Microsoft Power BI (basic), Excel dashboards
+
+**Database Management:** MySQL, relational databases, SQL queries, joins, aggregations
+
+**Other Tools:** Microsoft PowerPoint, Google Sheets, Jupyter Notebook, VS Code
+
+**Professional Skills:** Analytical thinking, problem-solving, written communication, presentation skills, teamwork, attention to detail, time management
+
+## ACADEMIC PROJECTS
+
+**Retail Sales Performance Dashboard**  
+University of Arizona | January 2026 – May 2026
+- Analyzed a simulated retail dataset containing approximately 12,000 transactions across multiple product categories and store locations.
+- Used Excel and SQL to clean data, identify missing values, remove duplicate records, and calculate monthly sales metrics.
+- Developed interactive Tableau dashboards displaying revenue trends, product performance, and regional sales comparisons.
+- Identified a 14% decrease in quarterly sales for one product category and presented possible contributing factors.
+- Delivered a 10-minute presentation to classmates explaining key findings and recommendations.
+- Collaborated with three team members to complete the project within established deadlines.
+
+**Customer Purchasing Behavior Analysis**  
+University of Arizona | August 2025 – December 2025
+- Used Python and pandas to analyze a simulated customer purchasing dataset containing approximately 5,000 records.
+- Performed exploratory data analysis to identify purchasing patterns across age groups, product categories, and transaction periods.
+- Created visualizations using matplotlib to communicate customer behavior trends.
+- Applied descriptive statistics to summarize purchasing frequency and average transaction values.
+- Prepared a written report outlining findings, limitations, and potential business applications.
+
+**Student Enrollment Database Project**  
+University of Arizona | January 2025 – May 2025
+- Designed a relational database to manage student enrollment, course information, and academic department records.
+- Created SQL queries using JOIN, GROUP BY, and aggregate functions to generate summary reports.
+- Developed an entity-relationship diagram illustrating relationships between database tables.
+- Documented database structure, query logic, and project assumptions for a final class submission.
+
+## EXPERIENCE
+
+**Technology Support Volunteer**  
+University of Arizona Campus Events | September 2025 – Present
+- Assisted approximately 20–30 visitors per event with basic technology questions, device setup, and online registration.
+- Explained technical instructions clearly to individuals with varying levels of computer experience.
+- Maintained accurate attendance records and assisted event coordinators with data entry.
+- Worked collaboratively with student volunteers to troubleshoot issues and improve event operations.
+
+**Student Office Assistant (Part-Time)**  
+University of Arizona | August 2024 – May 2025
+- Maintained spreadsheets tracking office supplies, student requests, and administrative activities.
+- Used Excel formulas and PivotTables to organize records and prepare monthly summaries.
+- Assisted staff with document preparation, scheduling, and general administrative tasks.
+- Reviewed records for inconsistencies and corrected data entry errors.
+
+## LEADERSHIP & ACTIVITIES
+**Management Information Systems Student Association**  
+Member | August 2024 – Present
+- Attended workshops focused on business analytics, technology careers, and professional development.
+- Participated in networking events with local business and technology professionals.
+- Collaborated with fellow students on professional development activities.
+
+## ADDITIONAL INFORMATION
+- Strong interest in business intelligence, data analytics, and technology consulting.
+- Comfortable presenting analytical findings to both technical and nontechnical audiences.
+- Experience working independently and collaboratively on deadline-driven projects.
+- Interested in expanding knowledge of Git, advanced SQL, and automated reporting workflows.
