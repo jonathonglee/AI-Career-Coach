@@ -1,0 +1,250 @@
+{
+  "catalog_year": "2026-2027",
+  "checked_on": "2026-11-05",
+  "catalog_url": "https://catalog.arizona.edu/",
+  "courses": [
+    {
+      "code": "CSC480",
+      "title": "Principles of Machine Learning",
+      "level": "Undergraduate",
+      "credits": 3,
+      "description": "Introduces fundamental machine learning methods, prediction, decision systems, algorithms, implementation, and the limitations of learning from data.",
+      "index_terms": "machine learning Python data science data scientist applied AI modeling",
+      "url": "https://catalog.arizona.edu/courses/0421321"
+    },
+    {
+      "code": "CSC483",
+      "title": "Text Retrieval and Web Search",
+      "level": "Undergraduate",
+      "credits": 3,
+      "description": "Covers web crawling, indexing, information retrieval models, text classification, clustering, and link analysis with a programming project.",
+      "index_terms": "RAG search engineer retrieval augmented generation embeddings information retrieval NLP",
+      "url": "https://catalog.arizona.edu/courses/0388271"
+    },
+    {
+      "code": "CSC580",
+      "title": "Principles of Machine Learning",
+      "level": "Graduate",
+      "credits": 3,
+      "description": "Studies foundations, computational methods, benefits, and risks of machine learning with algorithm implementation.",
+      "index_terms": "machine learning data science predictive modeling AI engineer algorithms",
+      "url": "https://catalog.arizona.edu/courses/0405911"
+    },
+    {
+      "code": "CSC583",
+      "title": "Text Retrieval and Web Search",
+      "level": "Graduate",
+      "credits": 3,
+      "description": "Covers web crawling, indexing, vector-space and probabilistic retrieval, text classification, clustering, and link analysis with an applied programming project.",
+      "index_terms": "RAG information retrieval LLM search engineer NLP AI engineer text search",
+      "url": "https://catalog.arizona.edu/courses/0388291"
+    },
+    {
+      "code": "INFO550",
+      "title": "Artificial Intelligence",
+      "level": "Graduate",
+      "credits": 3,
+      "description": "Introduces AI algorithms including search, constraint satisfaction, knowledge representation, probabilistic inference, and reinforcement learning with programming applications.",
+      "index_terms": "AI engineer artificial intelligence algorithms reinforcement learning ML",
+      "url": "https://catalog.arizona.edu/courses/0356471"
+    },
+    {
+      "code": "ISTA455",
+      "title": "Applied Natural Language Processing",
+      "level": "Undergraduate",
+      "credits": 3,
+      "description": "Introduces practical natural language processing for question answering, sentiment analysis, information extraction, machine translation, and chatbots.",
+      "index_terms": "NLP text mining AI chatbot RAG applied AI LLM information retrieval",
+      "url": "https://catalog.arizona.edu/courses/0379281"
+    },
+    {
+      "code": "MIS301",
+      "title": "Data Structures and Algorithms",
+      "level": "Undergraduate",
+      "credits": 3,
+      "description": "Studies stacks, queues, trees, graphs, searching, sorting, and graph traversal with Java and an introduction to C.",
+      "index_terms": "computer science software engineering programming algorithms",
+      "url": "https://catalog.arizona.edu/courses/0223181"
+    },
+    {
+      "code": "MIS331",
+      "title": "Database Management Systems",
+      "level": "Undergraduate",
+      "credits": 3,
+      "description": "Introduces relational database management, query interfaces, database integrity, security, concurrency, and recovery.",
+      "index_terms": "SQL relational databases data analyst database developer data engineering",
+      "url": "https://catalog.arizona.edu/courses/0223221"
+    },
+    {
+      "code": "MIS415",
+      "title": "Information Security in Public and Private Sectors",
+      "level": "Undergraduate",
+      "credits": 3,
+      "description": "Introduces information system confidentiality, integrity, availability, network and hardware/software security, threats, and countermeasures.",
+      "index_terms": "cybersecurity information security risk network security IT governance",
+      "url": "https://catalog.arizona.edu/courses/0223431"
+    },
+    {
+      "code": "MIS416",
+      "title": "Information Security Risk Management",
+      "level": "Undergraduate",
+      "credits": 3,
+      "description": "Addresses information security risk assessments, asset valuation, risk monitoring, reporting, and assessment frameworks.",
+      "index_terms": "risk analyst cyber security IT risk audit compliance governance",
+      "url": "https://catalog.arizona.edu/courses/0353361"
+    },
+    {
+      "code": "MIS417",
+      "title": "Systems Security Management",
+      "level": "Undergraduate",
+      "credits": 3,
+      "description": "Studies protecting operating systems, system and network devices, and related information assurance practices.",
+      "index_terms": "cybersecurity systems security network security cloud protection",
+      "url": "https://catalog.arizona.edu/courses/0337701"
+    },
+    {
+      "code": "MIS441",
+      "title": "Information Systems Analysis and Design",
+      "level": "Undergraduate",
+      "credits": 3,
+      "description": "Covers business process and information system analysis, requirements gathering, the systems development life cycle, logical design, and cost-benefit analysis.",
+      "index_terms": "systems analyst business analyst requirements product owner project management",
+      "url": "https://catalog.arizona.edu/courses/0223231"
+    },
+    {
+      "code": "MIS443",
+      "title": "Business Data Communications & Networking",
+      "level": "Undergraduate",
+      "credits": 3,
+      "description": "Examines Internet protocols, business networking technologies, and Python-based networking projects.",
+      "index_terms": "network analyst infrastructure cloud IT analyst systems architecture networking",
+      "url": "https://catalog.arizona.edu/courses/0418511"
+    },
+    {
+      "code": "MIS478",
+      "title": "Project Management",
+      "level": "Undergraduate",
+      "credits": 3,
+      "description": "Introduces project management tools and processes with attention to scope, time, cost, quality, and coordination.",
+      "index_terms": "project manager operations analyst business analyst project delivery",
+      "url": "https://catalog.arizona.edu/courses/0223671/general-aoYks"
+    },
+    {
+      "code": "MIS515",
+      "title": "Information Security in Public and Private Sectors",
+      "level": "Graduate",
+      "credits": 3,
+      "description": "Surveys security principles, threats, protections, countermeasures, and information risk for computing systems and networks.",
+      "index_terms": "cybersecurity cloud security network security risk analyst",
+      "url": "https://catalog.arizona.edu/courses/0223961"
+    },
+    {
+      "code": "MIS516",
+      "title": "Information Security Risk Management",
+      "level": "Graduate",
+      "credits": 3,
+      "description": "Covers information security risk management, asset assessment, risk reporting, controls, and risk assessment methods.",
+      "index_terms": "information security governance compliance cyber risk analyst",
+      "url": "https://catalog.arizona.edu/courses/0223971"
+    },
+    {
+      "code": "MIS517",
+      "title": "Systems Security Management",
+      "level": "Graduate",
+      "credits": 3,
+      "description": "Develops knowledge of safeguarding operating systems, networks, and related system components.",
+      "index_terms": "security analyst incident response infrastructure cyber operations",
+      "url": "https://catalog.arizona.edu/courses/0223981"
+    },
+    {
+      "code": "MIS531",
+      "title": "Enterprise Data Management",
+      "level": "Graduate",
+      "credits": 3,
+      "description": "Covers data and business process requirements, entity-relationship models, relational normalization, SQL and PL/SQL, database design, and practical client-focused implementation.",
+      "index_terms": "SQL database developer data analyst data engineer ETL relational data modeling",
+      "url": "https://catalog.arizona.edu/courses/0224081"
+    },
+    {
+      "code": "MIS545",
+      "title": "Data Mining and Machine Learning",
+      "level": "Graduate",
+      "credits": 3,
+      "description": "Covers classification, clustering, association rules, prediction, and business-oriented data mining applications with hands-on tools.",
+      "index_terms": "machine learning data science prediction classification analytics Python",
+      "url": "https://catalog.arizona.edu/courses/0337711"
+    },
+    {
+      "code": "MIS548",
+      "title": "Introduction to Deep Learning",
+      "level": "Graduate",
+      "credits": 3,
+      "description": "Teaches foundational deep learning, optimization, CNNs, RNNs, graph neural networks, and hands-on business applications using modern tools.",
+      "index_terms": "AI engineer neural networks deep learning PyTorch machine learning",
+      "url": "https://catalog.arizona.edu/courses/0425451"
+    },
+    {
+      "code": "MIS554",
+      "title": "Artificial Intelligence for Business Intelligence",
+      "level": "Graduate",
+      "credits": 3,
+      "description": "Introduces AI, machine learning, and deep learning methods to translate business data into decision-supporting intelligence.",
+      "index_terms": "AI analytics business intelligence machine learning decision support",
+      "url": "https://catalog.arizona.edu/courses/0434581"
+    },
+    {
+      "code": "MIS556",
+      "title": "Generative AI for Business",
+      "level": "Graduate",
+      "credits": 3,
+      "description": "Covers generative AI, LLMs, prompt engineering, fine-tuning, retrieval-augmented generation, privacy, safety, and hands-on business applications.",
+      "index_terms": "generative AI LLM RAG agent prompt engineering applied AI engineer",
+      "url": "https://catalog.arizona.edu/courses/0436081"
+    },
+    {
+      "code": "MIS561",
+      "title": "Data Visualization",
+      "level": "Graduate",
+      "credits": 3,
+      "description": "Teaches exploratory and explanatory data visualization, identifying patterns, testing hypotheses, and communicating findings.",
+      "index_terms": "Tableau visualization dashboard business analytics data storytelling reporting",
+      "url": "https://eller.arizona.edu/programs/masters/mis/mis/program/courses"
+    },
+    {
+      "code": "MIS578",
+      "title": "Project Management",
+      "level": "Graduate",
+      "credits": 3,
+      "description": "Focuses on project management techniques, activities, schedules, requirements, and scope/time/cost/quality constraints.",
+      "index_terms": "project manager management consulting business analyst IT project",
+      "url": "https://catalog.arizona.edu/courses/0224431"
+    },
+    {
+      "code": "MIS584",
+      "title": "Big Data Technologies",
+      "level": "Graduate",
+      "credits": 3,
+      "description": "Focuses on big data collection, SQL and NoSQL technologies, preprocessing, dashboards, distributed computing, and machine learning tools such as MongoDB and PySpark.",
+      "index_terms": "big data cloud data engineering Hadoop Spark SQL NoSQL MongoDB",
+      "url": "https://catalog.arizona.edu/courses/0407941"
+    },
+    {
+      "code": "MIS586",
+      "title": "Big Data Analytics",
+      "level": "Graduate",
+      "credits": 3,
+      "description": "Explores techniques for collecting, processing, visualizing, and analyzing large datasets, including web and network analytics, MongoDB, Hadoop, and MapReduce.",
+      "index_terms": "big data analytics Hadoop MongoDB web analytics data scientist",
+      "url": "https://catalog.arizona.edu/courses/0384341"
+    },
+    {
+      "code": "MIS587",
+      "title": "Business Intelligence",
+      "level": "Graduate",
+      "credits": 3,
+      "description": "Addresses dimensional data modeling, ETL, data warehousing, business intelligence, KPIs, and dashboards for organizational decisions.",
+      "index_terms": "data analyst business intelligence ETL BI SQL data warehouse Tableau",
+      "url": "https://catalog.arizona.edu/courses/0224551"
+    }
+  ]
+}
