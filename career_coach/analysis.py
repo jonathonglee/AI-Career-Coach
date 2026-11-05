@@ -1,5 +1,4 @@
 """AI-powered analysis with strict, evidence-based instructions."""
-from openai import OpenAI
 from .retrieval import format_context, retrieve
 
 SYSTEM = """You are an encouraging but precise career coach for college students.
@@ -37,6 +36,7 @@ def generate_response(api_key: str, model: str, task: str, resume: str = "", job
             if item.get("role") in ("user", "assistant"):
                 messages.append({"role": item["role"], "content": str(item.get("content", ""))[:2500]})
     messages.append({"role": "user", "content": prompt})
+    from openai import OpenAI
     client = OpenAI(api_key=api_key, timeout=40.0, max_retries=1)
     response = client.chat.completions.create(model=model, messages=messages, temperature=0.3, max_tokens=1100)
     answer = response.choices[0].message.content or "No response returned. Please try again."
@@ -102,3 +102,4 @@ def _grounded_completion(api_key: str, model: str, prompt: str, max_tokens: int)
                                  {"role": "user", "content": prompt}],
         temperature=0.2, max_tokens=max_tokens)
     return response.choices[0].message.content or "No response returned. Please try again."
+
