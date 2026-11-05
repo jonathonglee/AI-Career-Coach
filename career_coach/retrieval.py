@@ -27,8 +27,8 @@ def load_passages(directory: Path = KB_DIR) -> list[Passage]:
     return passages
 
 
-def retrieve(query: str, top_k: int = 3, directory: Path = KB_DIR) -> list[Passage]:
-    passages = load_passages(directory)
+def rank_passages(query: str, passages: list[Passage], top_k: int = 3) -> list[Passage]:
+    """Reusable lexical retriever for guidance, illustrative resumes, and courses."""
     if not passages or not query.strip():
         return []
     corpus = [p.text for p in passages]
@@ -44,7 +44,12 @@ def retrieve(query: str, top_k: int = 3, directory: Path = KB_DIR) -> list[Passa
             for i in ranked[:top_k] if scores[i] > 0]
 
 
+def retrieve(query: str, top_k: int = 3, directory: Path = KB_DIR) -> list[Passage]:
+    return rank_passages(query, load_passages(directory), top_k=top_k)
+
+
 def format_context(passages: list[Passage]) -> str:
     if not passages:
         return "No matching knowledge-base passages were retrieved."
     return "\n\n".join(f"[Source: {p.source}]\n{p.text}" for p in passages)
+
