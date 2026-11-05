@@ -1,4 +1,97 @@
-Junior Data Analyst
-Responsibilities: clean and analyze business datasets; build dashboards; communicate findings to stakeholders; document analysis workflows.
-Required: Excel, SQL, data visualization, written communication.
-Preferred: Python, Tableau or Power BI, experience with version control.
+# JUNIOR DATA ANALYST
+**Company:** Desert Ridge Business Solutions  
+**Location:** Tucson, Arizona  
+**Employment Type:** Full-Time | Entry-Level  
+**Work Arrangement:** Hybrid (3 days in office, 2 days remote)  
+**Salary Range:** $55,000–$65,000 annually
+
+## ABOUT THE COMPANY
+Desert Ridge Business Solutions is a fictional business consulting and analytics company that helps organizations improve operational efficiency, understand customer behavior, and make informed business decisions through data.
+
+Our analytics team works with clients across retail, healthcare, and professional services to develop reporting solutions, monitor performance metrics, and identify opportunities for improvement.
+
+We are seeking a motivated Junior Data Analyst to join our growing analytics team. This position is ideal for a recent college graduate or early-career professional who enjoys working with data, solving business problems, and communicating insights to stakeholders.
+
+## POSITION SUMMARY
+The Junior Data Analyst will support the collection, cleaning, analysis, and visualization of business data. The successful candidate will work with analysts, project managers, and business stakeholders to develop dashboards, prepare reports, and identify meaningful trends.
+
+The role requires a combination of technical skills, analytical thinking, attention to detail, and effective communication.
+
+## KEY RESPONSIBILITIES
+
+**Data Collection and Preparation**
+- Collect and organize structured data from spreadsheets, relational databases, and internal reporting systems.
+- Clean datasets by identifying missing values, duplicate records, and inconsistent formatting.
+- Perform data validation checks to ensure accuracy and completeness.
+- Maintain documentation describing data sources, transformations, and assumptions.
+
+**Data Analysis and Reporting**
+- Use SQL to retrieve, filter, join, and aggregate business data.
+- Analyze sales, customer, and operational datasets to identify trends and performance patterns.
+- Develop recurring reports tracking key performance indicators (KPIs).
+- Apply descriptive statistics to summarize business performance and identify potential issues.
+- Support senior analysts with ad hoc analysis and reporting requests.
+
+**Dashboard Development**
+- Create and maintain interactive dashboards using Tableau or Microsoft Power BI.
+- Develop visualizations that clearly communicate business performance to nontechnical audiences.
+- Update existing reports based on stakeholder feedback.
+- Ensure dashboards use consistent definitions and accurate data.
+
+**Collaboration and Communication**
+- Present analytical findings to internal stakeholders and project teams.
+- Translate technical findings into clear, actionable business recommendations.
+- Collaborate with team members to understand reporting requirements.
+- Participate in team meetings and provide updates on assigned analytical tasks.
+
+**Documentation and Process Improvement**
+- Document SQL queries, data cleaning procedures, and dashboard development workflows.
+- Use version control tools such as Git to track changes to analytical scripts and project files.
+- Identify opportunities to improve reporting efficiency and reduce repetitive manual tasks.
+- Assist with testing and quality assurance of analytical reports.
+
+## REQUIRED QUALIFICATIONS
+- Bachelor's degree in Management Information Systems, Business Analytics, Computer Science, Statistics, Mathematics, or a related field, completed or expected before the position's start date.
+- Academic project, internship, or professional experience working with structured datasets.
+- Intermediate Microsoft Excel skills, including PivotTables, lookup functions, and data cleaning.
+- Working knowledge of SQL, including SELECT statements, JOIN operations, filtering, and aggregation.
+- Experience creating charts, reports, or dashboards using Tableau, Power BI, or similar tools.
+- Basic understanding of descriptive statistics and data quality concepts.
+- Strong written and verbal communication skills.
+- Ability to explain analytical findings to nontechnical audiences.
+- Strong organizational skills and attention to detail.
+- Ability to work both independently and collaboratively.
+
+## PREFERRED QUALIFICATIONS
+- Experience using Python for data analysis, particularly pandas or matplotlib.
+- Familiarity with Git and GitHub for version control.
+- Experience building automated reports or repeatable data processing workflows.
+- Knowledge of relational database design and data modeling.
+- Familiarity with data visualization best practices and dashboard usability.
+- Experience working with large datasets containing 10,000 or more records.
+- Exposure to business intelligence tools such as Microsoft Power BI.
+- Familiarity with ETL (Extract, Transform, Load) concepts.
+- Experience communicating recommendations to business stakeholders.
+
+## WHAT SUCCESS LOOKS LIKE
+Within the first three months, the Junior Data Analyst should be able to:
+- Independently clean and analyze basic business datasets.
+- Write SQL queries to retrieve and summarize information.
+- Maintain and update existing dashboards.
+- Prepare accurate reports with minimal supervision.
+- Communicate analytical findings clearly during team meetings.
+- Document analysis workflows and follow established data quality standards.
+
+## BENEFITS
+- Competitive entry-level salary
+- Health, dental, and vision insurance
+- Paid time off and company holidays
+- Hybrid work flexibility
+- Professional development and training opportunities
+- Mentorship from experienced data analysts
+- Opportunities for career advancement into business intelligence and senior analyst roles
+
+## APPLICATION INSTRUCTIONS
+Applicants should submit a current resume highlighting relevant education, technical skills, academic projects, internships, and professional experience.
+
+Candidates selected for interviews may be asked to discuss a previous analytical project, explain basic SQL concepts, and describe how they would approach cleaning and visualizing a business dataset.
